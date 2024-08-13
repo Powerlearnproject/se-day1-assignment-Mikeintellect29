@@ -24,13 +24,29 @@ List and briefly explain the phases of the Software Development Life Cycle.
 3- Implementation: writing codes and building of the software according to the design specifications.
 4- Deployment: releasing the software to users
 5- Maintainance: providing ongoing, updates and enhancements to the software after deployement
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall: they are appropriate for project where the scope, requirements, and designs, and outcome are in sequencial order.e.g. Medical Device Development.
+Agile: suitable for project  that require flexibility, quick iterations and active stakeholder involvement. e.g. Startup Developing aNew Mobile App
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+SOFTWARE DEVELOPER: responsible for writing codes and implementing software solutions.
+QUALITY ASSURANCE ENGINEER: ensure software quality by designing and execucting test plans
+PROJECT MANAGER: Ooversees the planning , executions, and delivery of software projects.
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+IMPORTANCE OF IDE
+1- Code writing and editing: IDEs provides a rich set of tools for writing, editing, and managing codes.
+2- Debugging: it allows developers to step through codes, inspect variables and set breakpoints, making it easier to identify and fix code fault.
+EXAMPLES OF IDEs: Visual Studio Codes(VS Code), Eclipse.
+
+IMPORTANCE OF VCS
+1- Collaboration: it allows multiples developers to work on the same project simultaneously without overwriting each others changes.
+2- Tracking Changes: it allows developers to track the history of changes.
+EXAMPLES OF VCS: Git,Subversion
+
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
